@@ -1,4 +1,4 @@
-# 
+# smart Trading Bot for okx trading bot | API-integration & auto-leverage offers the most advanced okx trading bot, with API-integration and auto-leverage. Ideal for professional
 
 
 
